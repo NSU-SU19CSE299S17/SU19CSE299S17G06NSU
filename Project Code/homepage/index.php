@@ -19,6 +19,15 @@
 		
 		</ul>
 
+		</div>
+	<div class="welcome">
+	<h1>WELCOME TO E-FURNITURE SHOP</h1>
+		<div class="button">
+		<a href="login.php" class="btn login">Log in</a>
+		<a href="signup.php" class="btn signup">Sign UP</a>
+		</div>
+	</div>
+
 </header>
 
 
