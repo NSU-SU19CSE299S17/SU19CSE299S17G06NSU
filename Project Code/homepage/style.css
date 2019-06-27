@@ -1,0 +1,15 @@
+*
+{
+	margin:0 px;
+	padding:0 px;
+	
+}
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image/welcome.jpg);
+	height: 100%;
+	width: 100%;
+	background-size:cover;
+	background-position:center;
+	}
+	
