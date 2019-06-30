@@ -68,3 +68,17 @@ h1{
 	margin-left:0px;
 	text-align:center;
 }
+
+.button{
+	margin-top:30px;
+	margin-left:0px;
+}
+.btn{
+	border:1px solid white;
+	padding:10px 30px;
+	color:white;
+	text-decoration:none;
+	margin-right:5 px;
+	font-size:15px;
+	text-transform:uppercase;
+}
