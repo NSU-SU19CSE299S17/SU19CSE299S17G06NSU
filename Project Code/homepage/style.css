@@ -12,7 +12,22 @@ header
 	background-size:cover;
 	background-position:center;
 	}
+.main-nav{
+	float:right;
+	list-style:none;
+	margin-top:30px;
 	
+}
+.main-nav li{
+	display:inline-block;
+}
+.main-nav li a{
+	color:white;
+	text-decoration:none;
+	padding: 2px 20px;
+	font-family: "Roboto",sans-serif;
+	font-size:15px;
+}		
 .main-nav li.active  a {
 	border:1px solid white;	
 }
@@ -44,3 +59,26 @@ body {
 	margin-top:0;
 	text-align:center;
 }	
+
+h1{
+	color:white;
+	text-transform:uppercase;
+	font-size:70px;
+	margin-top:275px;
+	margin-left:0px;
+	text-align:center;
+}
+
+.button{
+	margin-top:30px;
+	margin-left:0px;
+}
+.btn{
+	border:1px solid white;
+	padding:10px 30px;
+	color:white;
+	text-decoration:none;
+	margin-right:5 px;
+	font-size:15px;
+	text-transform:uppercase;
+}
