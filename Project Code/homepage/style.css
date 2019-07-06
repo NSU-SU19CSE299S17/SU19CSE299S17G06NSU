@@ -92,3 +92,22 @@ p{
 	text-transform:uppercase;
 }
 
+.login{
+	background-color:#4295f4;
+	font-family:"Roboto",sans-serif;
+}
+.login:hover{
+	background-color:MediumSeaGreen;
+	transition: all 0.5s ease-in;
+}
+
+.signup{
+	font-family:"Roboto",sans-serif;
+	background-color:#4295f4;
+}
+
+.signup:hover{
+	background-color:MediumSeaGreen;
+	transition: all 0.5s ease-in;
+}
+
