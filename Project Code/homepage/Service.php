@@ -3,7 +3,7 @@
 </head>
 <body>
 <style>
-
+<link href="style.css" rel="stylesheet" type="text/css">
 <p>
 <ul>
 <li> Fast Order </li>
