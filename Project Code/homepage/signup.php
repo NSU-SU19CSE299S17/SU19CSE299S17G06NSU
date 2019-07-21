@@ -33,6 +33,9 @@ include_once("config.php");
 	$number = $_POST['number'];
 	$location = $_POST['location'];
 
+
+	$hashedpwd = password_hash($password,PASSWORD_DEFAULT);
+	
 	//header("Location: index.php");
 	echo "<h4 align = 'center'>Sign Up was Successful</h4>";
 		
