@@ -20,4 +20,34 @@
 	<p class="message"> Already Registered? <a href="login.php"> Log In </a> </p>
 	</form>
 	</body>
+
+<?php
+//including the database connection file
+include_once("config.php");
+
+	if(isset($_POST['Submit'])) {	
+	
+	$name = $_POST['name'];
+	$password = $_POST['password'];
+	$email = $_POST['email'];
+	$number = $_POST['number'];
+	$location = $_POST['location'];
+
+
+	$hashedpwd = password_hash($password,PASSWORD_DEFAULT);
+
+	$result = "INSERT  INTO users(Name, Password, Email, Number, Location) 
+								VALUES('$name', '$hashedpwd', '$email', '$number', '$location')";
+	
+	$result = mysqli_query($conn, $result);
+
+	//header("Location: index.php");
+	echo "<h4 align = 'center'>Sign Up was Successful</h4>";
+		
+	}
+
+
+?>
+
+
 </html>
