@@ -35,7 +35,12 @@ include_once("config.php");
 
 
 	$hashedpwd = password_hash($password,PASSWORD_DEFAULT);
+
+	$result = "INSERT  INTO users(Name, Password, Email, Number, Location) 
+								VALUES('$name', '$hashedpwd', '$email', '$number', '$location')";
 	
+	$result = mysqli_query($conn, $result);
+
 	//header("Location: index.php");
 	echo "<h4 align = 'center'>Sign Up was Successful</h4>";
 		
