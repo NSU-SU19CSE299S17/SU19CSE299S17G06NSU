@@ -25,8 +25,14 @@
 //including the database connection file
 include_once("config.php");
 
-if(isset($_POST['Submit'])) {	
+	if(isset($_POST['Submit'])) {	
 	
+	$name = $_POST['name'];
+	$password = $_POST['password'];
+	$email = $_POST['email'];
+	$number = $_POST['number'];
+	$location = $_POST['location'];
+
 	//header("Location: index.php");
 	echo "<h4 align = 'center'>Sign Up was Successful</h4>";
 		
