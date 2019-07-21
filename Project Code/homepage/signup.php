@@ -20,4 +20,11 @@
 	<p class="message"> Already Registered? <a href="login.php"> Log In </a> </p>
 	</form>
 	</body>
+
+<?php
+//including the database connection file
+include_once("config.php");
+?>
+
+	
 </html>
