@@ -24,7 +24,16 @@
 <?php
 //including the database connection file
 include_once("config.php");
+
+if(isset($_POST['Submit'])) {	
+	
+	//header("Location: index.php");
+	echo "<h4 align = 'center'>Sign Up was Successful</h4>";
+		
+	}
+
+
 ?>
 
-	
+
 </html>
