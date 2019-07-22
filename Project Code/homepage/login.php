@@ -26,6 +26,14 @@
 		if(empty($name)||empty($password)){
 			header("Location:index.php?login=empty");
 				exit();
+			} 
+			else{
+			$sql = "SELECT*FROM users where Name='$name'";
+			$result = mysqli_query($conn,$sql);
+			$resultCheck = mysqli_num_rows($result);
+			if($resultCheck<1){
+				header("Location:index.php?login=error");
+				exit();
 }
 
 ?>
