@@ -33,7 +33,18 @@
 			$resultCheck = mysqli_num_rows($result);
 			if($resultCheck<1){
 				header("Location:index.php?login=error");
+			exit();
+			} 
+			else{
+				if($row = mysqli_fetch_assoc($result)){
+					$hashedPwdCheck = Password_verify($password, $row['Password']);
+					if($hashedPwdCheck == false){
+						header("Location:index.php?login=error");
 				exit();
+					}
+
+
+
 }
 
 ?>
