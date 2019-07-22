@@ -12,6 +12,17 @@
 	<input type="password"name="password" placeholder="Password"/>
 	
 	<input type="submit" class="button"  name="login" value="login"/>
+
+<?php
+	
+	session_start();
+	
+	if (isset($_POST['login'])){
+	include_once("config.php");
+}
+
+?>
+
 	
 	<p class="message"> Not Registered? <a href="signup.php"> Sign Up </a> </p>
 	</form>
