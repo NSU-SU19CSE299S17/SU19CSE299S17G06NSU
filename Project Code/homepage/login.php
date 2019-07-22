@@ -19,6 +19,13 @@
 	
 	if (isset($_POST['login'])){
 	include_once("config.php");
+
+	$name = mysqli_real_escape_string($conn, $_POST['name']);
+		$password = mysqli_real_escape_string($conn, $_POST['password']);
+		
+		if(empty($name)||empty($password)){
+			header("Location:index.php?login=empty");
+				exit();
 }
 
 ?>
