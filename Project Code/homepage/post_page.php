@@ -47,6 +47,14 @@
    	display: block;
    	clear: both;
    }
+
+   img{
+   	float: left;
+   	margin: 5px;
+   	width: 500px;
+   	height: 300px;
+   	display: block;
+   }
 </style>
 
 </head>
