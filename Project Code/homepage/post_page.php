@@ -55,6 +55,10 @@
    	height: 300px;
    	display: block;
    }
+
+   textarea{
+   	background-color: white;
+   }
 </style>
 
 </head>
