@@ -25,5 +25,10 @@
   ?>
 
   <form method="POST" action="post_page.php" enctype="multipart/form-data">
+
+  <input type="hidden" name="size" value="1000000">
+  	<div>
+  	  <input type="file" name="image">
+  	</div>
 </body>
 </html>
