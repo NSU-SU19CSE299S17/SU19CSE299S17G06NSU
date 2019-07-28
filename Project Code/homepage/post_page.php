@@ -6,7 +6,13 @@
 
 
 <style type="text/css">
-	*
+	*{
+	background-image:url(image/welcome.jpg);
+	
+	background-size:cover;
+	background-position:center;
+	font-size:15px;
+	}
 
 
 </style>
