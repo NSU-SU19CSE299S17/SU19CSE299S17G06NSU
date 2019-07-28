@@ -8,10 +8,20 @@
 <style type="text/css">
 	*
 
-	
+
 </style>
 
 </head>
 <body>
+
+<div id="content">
+  <?php
+    while ($row = mysqli_fetch_array($result)) {
+      echo "<div id='img_div'>";
+      	echo "<img src='images/".$row['image']."' >";
+      	echo "<p>".$row['text']."</p>";
+      echo "</div>";
+    }
+  ?>
 </body>
 </html>
