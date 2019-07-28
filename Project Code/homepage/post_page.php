@@ -30,5 +30,14 @@
   	<div>
   	  <input type="file" name="image">
   	</div>
+<div>
+      <textarea 
+      	id="text" 
+      	cols="40" 
+      	rows="4" 
+      	name="text" 
+      	placeholder="Say something about your sell post and add description"></textarea>
+  	</div>
+  	
 </body>
 </html>
