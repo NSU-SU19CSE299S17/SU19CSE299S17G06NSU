@@ -6,14 +6,21 @@
 
 
 <style type="text/css">
-	*{
+	*
+	{
 	background-image:url(image/welcome.jpg);
 	
 	background-size:cover;
 	background-position:center;
 	font-size:15px;
 	}
+	 #content{
+   	width: 70%;
+   	margin: 20px auto;
+   	border: 1px solid #cbcbcb;
+	font-size:20px;
 
+   }
 
 </style>
 
