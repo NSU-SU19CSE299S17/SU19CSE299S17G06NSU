@@ -38,6 +38,10 @@
       	name="text" 
       	placeholder="Say something about your sell post and add description"></textarea>
   	</div>
-  	
+
+  	<div>
+  		<button type="submit" name="upload">POST</button>
+  	</div>
+
 </body>
 </html>
