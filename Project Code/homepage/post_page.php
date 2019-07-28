@@ -23,5 +23,7 @@
       echo "</div>";
     }
   ?>
+
+  <form method="POST" action="post_page.php" enctype="multipart/form-data">
 </body>
 </html>
