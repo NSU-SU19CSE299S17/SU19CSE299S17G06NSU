@@ -21,7 +21,11 @@
 	font-size:20px;
 
    }
-
+   form{
+   	width: 70%;
+   	margin: 20px auto;
+	font-size:20px;
+   }
 </style>
 
 </head>
