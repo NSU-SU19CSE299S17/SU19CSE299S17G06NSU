@@ -41,6 +41,12 @@
    	margin: 15px auto;
    	border: 1px solid #cbcbcb;
    }
+
+   #img_div:after{
+   	content: "";
+   	display: block;
+   	clear: both;
+   }
 </style>
 
 </head>
