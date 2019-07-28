@@ -34,6 +34,13 @@
    	background-color: white;
    	
    }
+
+   #img_div{
+   	width: 80%;
+   	padding: 5px;
+   	margin: 15px auto;
+   	border: 1px solid #cbcbcb;
+   }
 </style>
 
 </head>
