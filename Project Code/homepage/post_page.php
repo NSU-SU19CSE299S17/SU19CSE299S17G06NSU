@@ -1,3 +1,15 @@
+<?php
+  
+  $db = mysqli_connect("localhost", "root", "", "project");
+
+
+
+
+
+
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
