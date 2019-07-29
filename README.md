@@ -1,29 +1,32 @@
-![nsulogo](https://user-images.githubusercontent.com/51537471/61615617-4bf5b880-ac1b-11e9-9b36-b6cdf39442f9.jpg)
+<p align="center"> 
+  
+<img width="800" height="500" src="https://user-images.githubusercontent.com/51537471/61615617-4bf5b880-ac1b-11e9-9b36-b6cdf39442f9.jpg">
 
+</p>
 
+</br>
 
-# SU19CSE299S17G06NSU
+ <p align = "center">
 
-# Project Name: eFurniture
-# Course Number: CSE 299
+<H1 align= "center"> SU19CSE299S17G06NSU </H1>
+<H2 align= "center"> Project Name: eFurniture </H2>
+<H2 align= "center"> Course Number: CSE 299 </H2>
 
-Section: 17
+<H3 align= "center"> Section: 17 </H3>
+<H3 align= "center"> Group: 6 </H3>
+<H3 align= "center"> Semester: Summer 2019 </H3>
+<H3 align= "center"> Faculty Name: Shaikh Shawon Arefin Shimon </H3>
+<H3 align= "center"> Student Name: Faysal Ahmed </H3>
+<H3 align= "center"> Student ID: 1620491042 </H3>
+<H3 align= "center"> Student NSU email: Faysal.ahmed03@northsouth.edu </H3>
+<H3 align= "center"> Git repository link: https://github.com/FaysalAhmed1/SU19CSE299S17G06NSU </H3>
+<H3 align= "center"> Date prepared: 16/6/2019 </H3>
 
-Group: 6
+</p>
 
-Semester: Summer 2019
+</br>
 
-Faculty Name: Shaikh Shawon Arefin Shimon
-
-Student Name: Faysal Ahmed
-
-Student ID: 1620491042
-
-Student NSU email: Faysal.ahmed03@northsouth.edu
-
-Git repository link: https://github.com/FaysalAhmed1/SU19CSE299S17G06NSU
-
-Date prepared: 16/6/2019
+</br>
 
 ## 1) Project Idea:
 
