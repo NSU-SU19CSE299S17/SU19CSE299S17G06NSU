@@ -23,6 +23,8 @@
   	}else{
   		$msg = "Failed to upload image";
   	}
+  	 }
+  $result = mysqli_query($db, "SELECT * FROM images");
 ?>
 
 
