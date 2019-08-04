@@ -35,33 +35,7 @@
 <title>Image Upload</title>
 <style type="text/css">
 	*
-{
-	background-image:url(image/welcome.jpg);
-	
-	background-size:cover;
-	background-position:center;
-	font-size:15px;
-	}
 
-	#content{
-   	width: 70%;
-   	margin: 20px auto;
-   	border: 1px solid #cbcbcb;
-	font-size:20px;
-
-   }
-   form{
-   	width: 70%;
-   	margin: 20px auto;
-	font-size:20px;
-   }
-   form div{
-   	margin-top: 5px;
-	font-size:20px;
-	
-   	background-color: white;
-   	
-   }
 
 
 </body>
