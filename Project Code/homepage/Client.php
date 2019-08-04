@@ -5,6 +5,12 @@
 
 
   $msg = "";
+
+   if (isset($_POST['upload'])) {
+  	
+  	$image = $_FILES['image']['name'];
+  	
+  	$text = mysqli_real_escape_string($db, $_POST['text']);
 ?>
 
 
