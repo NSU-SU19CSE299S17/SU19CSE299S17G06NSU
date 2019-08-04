@@ -43,6 +43,14 @@
 	font-size:15px;
 	}
 
+	#content{
+   	width: 70%;
+   	margin: 20px auto;
+   	border: 1px solid #cbcbcb;
+	font-size:20px;
+
+   }
+
 
 </body>
 </html>
