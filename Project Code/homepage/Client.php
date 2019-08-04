@@ -50,6 +50,18 @@
 	font-size:20px;
 
    }
+   form{
+   	width: 70%;
+   	margin: 20px auto;
+	font-size:20px;
+   }
+   form div{
+   	margin-top: 5px;
+	font-size:20px;
+	
+   	background-color: white;
+   	
+   }
 
 
 </body>
