@@ -32,3 +32,18 @@ body, html{
 		width: inherit;
 		height: inherit;
 	}
+	 .prev, .next{
+		width: 12%;
+		height: inherit;
+		position: absolute;
+		top:0; 
+		background-color: rgba(88, 88, 88,.2);
+		color:rgba(244, 244, 244,.9);
+		z-index: 99;
+		transition: .45s;
+		cursor: pointer;
+		text-align: center;
+	}
+
+	.next{right:0;}
+	.prev{left:0;}
