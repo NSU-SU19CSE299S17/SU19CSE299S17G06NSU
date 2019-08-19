@@ -87,3 +87,7 @@ body, html{
 	background-color: rgba(255, 255, 255, 0.9);
 	transition: .25s
 }
+@keyframes scroll{
+	0%{	opacity:.4;}
+	100%{opacity:1;}
+}		
