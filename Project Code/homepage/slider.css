@@ -7,3 +7,19 @@ body, html{
 		font-family: 'Just Another Hand', cursive;
 		overflow-X: hidden;/* optional */
 	}
+
+
+	#i1, #i2, #i3, #i4, #i5{ display: none;}
+
+.container{
+		margin: 0 auto;
+		margin-top: 20px;
+		position: relative;
+		width: 70%;
+		height: 0;
+		padding-bottom: 38%;
+	  user-select: none;
+		background-color: #1c1c1c;
+		border: solid 10px #616161;
+		border-radius:10px ; 
+	}
