@@ -13,7 +13,9 @@
     position: relative;
     width: 100%;
     overflow: hidden;
-    text-align: center;}
+    text-align: center;
+    margin-top: 60px;
+}
   body{
   background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/welcome.jpg);
   height:100vh;
