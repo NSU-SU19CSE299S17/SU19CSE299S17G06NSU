@@ -28,26 +28,86 @@
 
 </br>
 
-## 1) Project Idea:
+# Table of Content
+
+#### 1) Project Summary
+
+#### 2) Project Description
+
+##### 2.1) Features
+
+##### 2.2) Technology used
+
+##### 2.3) Roadblocks
+
+#### 3) Repository and Communication media Links
+
+#### 4) Monetization
+
+#### 5) Future Business plan
+
+</br>
+
+## 1) Project Summary :
 
 Our plan for this project is to build a user friendly online furniture shop when user will be able to order as their desire. It will have the custom options where users will be able to customize it. It is designed to make your daily purchase easier.
+
+## 1) Project Description :
+
 #### a) Problem that it will solve:
 Most of the online furniture shop lacks the visual representation option for the clients. For home and office usage this project will be a problem solver when needed.
 #### b) How it will solve the problem:
 The product will have a varieties of furniture model in it. All furniture shop owners can add their product in our website for display. In the description menu all of the details will be given regarding that specific model. The user might want a different sized or a little bit different model comparing with their house model, for that case the request will be handled by an admin for their desired furniture. This will make the purchase much easier and comfortable.
 
-## 2) Features: 
+## 2.1) Features: 
 
-a) Visual models of furniture with respective details to make the purchase easier. There will be an image will every listed product and user can see all available options with it.
+a) User can sign up and create an account without any complexilty.
 
-b) Customizable designs. It will guide the user to find the right sized furniture for their home, user will be able to choose a different approach than the existing models.
+<p align="center"> 
+  
+<img width="600" height="350" src="https://user-images.githubusercontent.com/51537471/63654030-b065e380-c796-11e9-8c19-45590cf93cfa.jpg">
 
-c) Calculating the existing model and specific custom model and provide a suitable price for the furniture.
+</p>
 
-d) We may add 3D models in the product to make the furniture more realistic.
+b)The location is added in google map and guests can find the location in the contact menu alongside the contact information.
 
-## 3) Technology:
-For our project we will use HTML, CSS, PHP, JavaScript, MySQL database. Suitable frameworks like bootstrap, laravel will be used.
+<p align="center"> 
+<img width="600" height="350" src="https://user-images.githubusercontent.com/51537471/63654050-f622ac00-c796-11e9-9f6c-74747afd8aeb.jpg">
+
+</p>
+
+c) A beautiful slider is added in the service page describing the offered services.
+
+<p align="center"> 
+<img width="600" height="350" src="https://user-images.githubusercontent.com/51537471/63654082-60d3e780-c797-11e9-9f03-e5bc66851c7a.jpg">
+
+</p>
+
+d) Visual models of furniture with respective details to make the purchase easier. There will be an image will every listed product and user can see all available options with it. After signing up user can post in the post page.
+
+<p align="center"> 
+  
+<img width="600" height="350" src="https://user-images.githubusercontent.com/51537471/63653877-7e538200-c794-11e9-9902-4c93d6ab0977.jpg">
+
+e) Customizable designs. It will guide the user to find the right sized furniture for their home, user will be able to choose a different approach than the existing models.
+
+
+## 2.2 ) Technology:
+
+Website Developing Language : HTML, CSS, PHP, JavaScript. </br>
+Database : MySQL database. </br>
+Framework : bootstrap, laravel. </br>
+
+## 2.3 ) Roadblocks:
+
+1.Insufficient knoledge regarding github, which was resolved by the course instructor. </br>
+2.Unfamilier situation with PHP and frameworks. </br>
+3.Time management. </br>
+
+## 3) Links: 
+
+github : https://github.com/FaysalAhmed1/SU19CSE299S17G06NSU  </br>
+Slack : https://su19cse299nsusas3.slack.com
 
 ## 4) Monetization:
 We’ll launch this product for free in the first place. After fixing the major concern and collecting data we will turn it to trial for a few months section. After visualizing the success rate well make it a paid product. We’ll identify the major user base and keep implementing new trial options. We’ll optimize the products performance and make it cost efficient with the collected data.
