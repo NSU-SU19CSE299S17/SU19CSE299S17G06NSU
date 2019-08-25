@@ -17,7 +17,7 @@
     margin-top: 60px;
 }
   body{
-  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/welcome.jpg);
+  background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(image/welcome.jpg);
   height:100vh;
   background-size:cover;
   background-position:center;
