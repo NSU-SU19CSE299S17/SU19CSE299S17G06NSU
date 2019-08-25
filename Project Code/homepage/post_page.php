@@ -31,28 +31,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Image Upload</title>
+<title>Post page</title>
 <style type="text/css">
-	*
+	
 
-{
+body{
 	background-image:url(image/welcome.jpg);
 	
-	background-size:cover;
-	background-position:center;
+	
 	font-size:15px;
 	}
    #content{
    	width: 70%;
    	margin: 20px auto;
-   	border: 1px solid #cbcbcb;
+   	border: 5px solid #cbcbcb;
 	font-size:20px;
 
    }
    form{
    	width: 70%;
    	margin: 20px auto;
-	font-size:20px;
+	font-size:30px;
    }
    form div{
    	margin-top: 5px;
@@ -66,6 +65,7 @@
    	padding: 5px;
    	margin: 15px auto;
    	border: 1px solid #cbcbcb;
+    background-color: gray;
    }
    #img_div:after{
    	content: "";
@@ -81,7 +81,12 @@
    }
    textarea{
    	background-color: white;
+    width:97%;
    }
+   button{
+    align-content: center;
+   }
+
 </style>
 </head>
 <body>
