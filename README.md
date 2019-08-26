@@ -106,7 +106,7 @@ Framework : bootstrap, laravel. </br>
 ## 3) Links: 
 
 github : https://github.com/FaysalAhmed1/SU19CSE299S17G06NSU  </br>
-Slack : https://su19cse299nsusas3.slack.com
+Slack : https://su19cse299nsusas3.slack.com </br>
 Piazza : https://piazza.com/class/jw7gkrl0mew7nk
 
 ## 4) Monetization:
