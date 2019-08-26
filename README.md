@@ -4,8 +4,6 @@
 
 </p>
 
-
-
  <p align = "center">
 
 <H2 align= "center"> SU19CSE299S17G06NSU </H2>
@@ -46,6 +44,7 @@
 
 #### 5) Future Business plan
 
+</br>
 </br>
 
 ## 1) Project Summary :
@@ -108,6 +107,7 @@ Framework : bootstrap, laravel. </br>
 
 github : https://github.com/FaysalAhmed1/SU19CSE299S17G06NSU  </br>
 Slack : https://su19cse299nsusas3.slack.com
+Piazza : https://piazza.com/class/jw7gkrl0mew7nk
 
 ## 4) Monetization:
 We’ll launch this product for free in the first place. After fixing the major concern and collecting data we will turn it to trial for a few months section. After visualizing the success rate well make it a paid product. We’ll identify the major user base and keep implementing new trial options. We’ll optimize the products performance and make it cost efficient with the collected data.
